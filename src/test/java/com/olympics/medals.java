@@ -24,8 +24,7 @@ import org.testng.annotations.Test;
 public class medals {
 
 	static WebDriver driver;
-	String url = "https://en.wikipedia.org/wiki/2016_Summer_Olympics#Medal_table.";
-
+	
 	@BeforeClass 
 	public void setUp() {
 
